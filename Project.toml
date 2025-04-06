@@ -1,0 +1,14 @@
+name = "IMFS"
+uuid = "fc30626a-9b12-4593-be43-f83af9d8a5ef"
+authors = ["Sole sonosole@163.com"]
+version = "0.1.0"
+
+
+
+[compat]
+julia = "1"
+CubicSplines = "0.2"
+
+[deps]
+CubicSplines = "9c784101-8907-5a6d-9be6-98f00873c89b"
+
